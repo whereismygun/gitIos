@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>jpush</key>
+	<string>f92bd9e5b2601b7c7e17258a</string>
+	<key>appId</key>
+	<string>1031844935</string>
+	<key>appName</key>
+	<string>ttl-pub-release</string>
+	<key>appChannel</key>
+	<string>appleTTL</string>
+	<key>amapKeyIOS</key>
+	<string>87385ac997e063813c60d41b70b159d1</string>
+	<key>amapKeyAndroid</key>
+	<string>5a46f12a93f87f009a0f58b48eae6f62</string>
+	<key>umengKeyIOS</key>
+	<string>56f37bfee0f55a5dd7001d62</string>
+	<key>umengKeyAndroid</key>
+	<string>56f37c5ce0f55a89c5000972</string>
+	<key>umengChannel</key>
+	<string>myapp</string>
+	<key>alipayScheme</key>
+	<string></string>
+	<key>wechatAppId</key>
+	<string>wx528ebf673e901376</string>
+	<key>wechatSeller</key>
+	<string></string>
+	<key>qqAppId</key>
+	<string>1105244315</string>
+	<key>weiboAppKey</key>
+	<string>1896399822</string>
+	<key>tongdunKey</key>
+	<string></string>
+	<key>udeskAppId</key>
+	<string></string>
+	<key>udeskAppKey</key>
+	<string></string>
+	<key>udeskDomainName</key>
+	<string></string>
+	<key>zmxyAppId</key>
+	<string></string>
+</dict>
+</plist>

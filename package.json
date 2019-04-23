@@ -1,0 +1,59 @@
+{
+	"name": "ttl",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"assign-deep": "^0.4.5",
+		"crypto-js": "^3.1.6",
+		"fly-react-native-id-recognition": "file:../rn-plugins/fly-react-native-id-recognition",
+		"fly-react-native-ps-keyboard": "file:../rn-plugins/fly-react-native-ps-keyboard",
+		"fly-react-native-alipay2": "file:../rn-plugins/fly-react-native-alipay2",
+		"fly-react-native-amaplocation": "file:../rn-plugins/fly-react-native-amaplocation",
+		"fly-react-native-app-info": "file:../rn-plugins/fly-react-native-app-info",
+		"fly-react-native-barcodescanner": "file:../rn-plugins/fly-react-native-barcodescanner",
+		"fly-react-native-camera": "file:../rn-plugins/fly-react-native-camera",
+		"fly-react-native-contacts": "file:../rn-plugins/fly-react-native-contacts",
+		"fly-react-native-device-info": "file:../rn-plugins/fly-react-native-device-info",
+		"fly-react-native-qq": "file:../rn-plugins/fly-react-native-qq",
+		"fly-react-native-qrcode": "file:../rn-plugins/fly-react-native-qrcode",
+		"fly-react-native-sqlite-storage": "file:../rn-plugins/fly-react-native-sqlite-storage",
+		"fly-react-native-tongdun": "file:../rn-plugins/fly-react-native-tongdun",
+		"fly-react-native-udesk": "file:../rn-plugins/fly-react-native-udesk",
+		"fly-react-native-udid": "file:../rn-plugins/fly-react-native-udid",
+		"fly-react-native-umeng": "file:../rn-plugins/fly-react-native-umeng",
+		"fly-react-native-vector-icons": "file:../rn-plugins/fly-react-native-vector-icons",
+		"fly-react-native-weibo": "file:../rn-plugins/fly-react-native-weibo",
+		"fly-react-native-weixin": "file:../rn-plugins/fly-react-native-weixin",
+		"fly-react-native-zmxy": "file:../rn-plugins/fly-react-native-zmxy",
+		"fly-react-native-fs": "file:../rn-plugins/fly-react-native-fs",
+		"fly-react-native-clean-cache":"file:../rn-plugins/fly-react-native-clean-cache",
+		"fly-react-native-updater":"file:../rn-plugins/fly-react-native-updater",
+		"lodash": "^4.0.0",
+		"react": "15.4.2",
+		"react-native": "^0.42.3",
+		"react-native-dismiss-keyboard": "^1.0",
+		"react-native-scrollable-tab-view": "^0.5.1",
+		"react-native-viewpager": "^0.2.1",
+		"react-redux": "~4.3.0",
+		"react-relay": "~0.7.3",
+		"react-timer-mixin": "^0.13.3",
+		"redux": "~3.2.1",
+		"redux-logger": "~2.5.0",
+		"redux-persist": "~1.5.0",
+		"redux-thunk": "~1.0.3",
+		"url-parse": "^1.1.1"
+	},
+	"devDependencies": {
+		"babel-jest": "19.0.0",
+		"babel-preset-react-native": "1.9.1",
+		"jest": "19.0.2",
+		"react-test-renderer": "15.4.2"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}

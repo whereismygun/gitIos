@@ -1,0 +1,21 @@
+PODS:
+  - Google-Diff-Match-Patch (1.0.6)
+  - NVHTarGzip (1.0.1)
+
+DEPENDENCIES:
+  - Google-Diff-Match-Patch (from `../libs/google-diff-match-patch`)
+  - NVHTarGzip (from `../libs/NVHTarGzip`)
+
+EXTERNAL SOURCES:
+  Google-Diff-Match-Patch:
+    :path: "../libs/google-diff-match-patch"
+  NVHTarGzip:
+    :path: "../libs/NVHTarGzip"
+
+SPEC CHECKSUMS:
+  Google-Diff-Match-Patch: bbc8bef0249cf66fa5e7a8835b4830861606be48
+  NVHTarGzip: 04be9af2b722cf9d201698f8a159e59abb253703
+
+PODFILE CHECKSUM: 693d29c3e0846cbe502e84c97f3bc88a777c934b
+
+COCOAPODS: 1.2.0
