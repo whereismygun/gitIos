@@ -26,6 +26,7 @@
   NSURL *url = [NSURL URLWithString:urlString];
   NSURLRequest *request = [NSURLRequest requestWithURL:url cachePolicy:NSURLRequestReloadIgnoringLocalAndRemoteCacheData timeoutInterval:100];
   
+  
   NSData *response = [NSURLConnection sendSynchronousRequest:request returningResponse:nil error:&error];
   
   self.latest = nil;
