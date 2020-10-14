@@ -13,7 +13,7 @@
 
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate,JPUSHRegisterDelegate>
-
+//debug
 
 @property (nonatomic, strong) UIWindow *window;
 @property (nonatomic, strong) UINavigationController* navController;
