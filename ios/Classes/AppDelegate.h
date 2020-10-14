@@ -11,7 +11,7 @@
 #import "CustomNavigationController.h"
 #import "JPUSHService.h"
 
-
+//release
 @interface AppDelegate : UIResponder <UIApplicationDelegate,JPUSHRegisterDelegate>
 
 
